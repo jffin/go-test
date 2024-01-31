@@ -1,3 +1,3 @@
-module github.com/jffin/go-replace
+module go-test-replace
 
 go 1.21.6
