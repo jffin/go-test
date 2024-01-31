@@ -1,3 +1,5 @@
 module go-test-replace
 
 go 1.21.6
+
+replace go-test-replace v0.1.1 => github.com/jffin/go-test v0.1.1
